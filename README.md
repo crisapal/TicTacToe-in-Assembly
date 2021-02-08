@@ -9,7 +9,7 @@ This code is divided in 3 main procedures:
 - marking a player's move
 - validation function
 
-![Board](https://github.com/crisapal/TicTacToe-in-Assembly/board.png)
+![Board](https://github.com/crisapal/TicTacToe-in-Assembly/blob/main/board.png)
 
 Extra's
 I added 2 files with the instructions needed in order to make an *if statement* and *string operations*  in ASM
